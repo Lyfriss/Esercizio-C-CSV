@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l3gQIywORxtJImv6k2Z67Jv5IrNdXH/CqaQ+P0/zDlUQoO9dn7SVEACvtwLH1AS1vUWNV67ugKQ+s0elit2/2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mgist\\source\\repos\\EsCoolshop\\EsCoolshop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mgist\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\mgist\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\mgist\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\mgist\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

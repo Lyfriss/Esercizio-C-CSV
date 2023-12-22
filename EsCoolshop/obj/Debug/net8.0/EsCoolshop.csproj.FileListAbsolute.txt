@@ -1,0 +1,17 @@
+C:\Users\mgist\source\repos\EsCoolshop\bin\Debug\net8.0\EsCoolshop.exe
+C:\Users\mgist\source\repos\EsCoolshop\bin\Debug\net8.0\EsCoolshop.deps.json
+C:\Users\mgist\source\repos\EsCoolshop\bin\Debug\net8.0\EsCoolshop.runtimeconfig.json
+C:\Users\mgist\source\repos\EsCoolshop\bin\Debug\net8.0\EsCoolshop.dll
+C:\Users\mgist\source\repos\EsCoolshop\bin\Debug\net8.0\EsCoolshop.pdb
+C:\Users\mgist\source\repos\EsCoolshop\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\mgist\source\repos\EsCoolshop\obj\Debug\net8.0\EsCoolshop.csproj.AssemblyReference.cache
+C:\Users\mgist\source\repos\EsCoolshop\obj\Debug\net8.0\EsCoolshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgist\source\repos\EsCoolshop\obj\Debug\net8.0\EsCoolshop.AssemblyInfoInputs.cache
+C:\Users\mgist\source\repos\EsCoolshop\obj\Debug\net8.0\EsCoolshop.AssemblyInfo.cs
+C:\Users\mgist\source\repos\EsCoolshop\obj\Debug\net8.0\EsCoolshop.csproj.CoreCompileInputs.cache
+C:\Users\mgist\source\repos\EsCoolshop\obj\Debug\net8.0\EsCoolshop.csproj.CopyComplete
+C:\Users\mgist\source\repos\EsCoolshop\obj\Debug\net8.0\EsCoolshop.dll
+C:\Users\mgist\source\repos\EsCoolshop\obj\Debug\net8.0\refint\EsCoolshop.dll
+C:\Users\mgist\source\repos\EsCoolshop\obj\Debug\net8.0\EsCoolshop.pdb
+C:\Users\mgist\source\repos\EsCoolshop\obj\Debug\net8.0\EsCoolshop.genruntimeconfig.cache
+C:\Users\mgist\source\repos\EsCoolshop\obj\Debug\net8.0\ref\EsCoolshop.dll
